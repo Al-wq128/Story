@@ -1,1 +1,2 @@
 This is my chapter
+This is another sentence in my chapter
